@@ -1,1 +1,1 @@
-This folder contains examples of **R** code. Each file illustrates a specific functionality of `R`. For example, `creating-classes.R` shows how to use the `S3` class structure in `R`.  
+This folder contains examples of **R** code. Each file illustrates a specific functionality of **R**. For example, `creating-classes.R` shows how to use the `S3` class structure in **R**.  
