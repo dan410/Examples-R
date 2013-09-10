@@ -1,5 +1,6 @@
 # Logit example in Faraway (non-lin) page 27
 
+install.packages("faraway")
 library(faraway)
 data(orings)
 
