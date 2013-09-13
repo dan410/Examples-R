@@ -24,7 +24,7 @@ plot(df)
 
 # When R runs plot(df) it looks at the value of class(df) and reads "myclass", it then looks to see if there is plot function for this class defined by plot.myclass(). If it finds plot.myclass(), then it runs plot.myclass(df). If it doesn't find a plotting funciton it does its best to create an appropriate plot. 
 
-class(df) <- "mystery"
+class(df) <- "foo"
 plot(df)
 
 class(df) <- "data.frame"
